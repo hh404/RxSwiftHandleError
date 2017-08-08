@@ -1,0 +1,36 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - RandomKit (5.2.2):
+    - ShiftOperations (~> 1.0.2)
+    - Threadly (~> 1.0)
+  - RxCocoa (3.5.0):
+    - RxSwift (~> 3.4)
+  - RxDataSources (1.0.4):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxExtensions (0.0.14):
+    - RxCocoa (~> 3.5.0)
+    - RxSwift (~> 3.5.0)
+  - RxSwift (3.5.0)
+  - ShiftOperations (1.0.2)
+  - Threadly (1.2.0)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.0.0)
+  - RandomKit (~> 5.2.2)
+  - RxDataSources (~> 1.0.4)
+  - RxExtensions (~> 0.0.14)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  RandomKit: 40ca2e2a121c24170799c28f6a8cb5da80be7ec6
+  RxCocoa: a0a09f45d0e5b48ecb6a4a7b4b4c89c88d3f633f
+  RxDataSources: b3389acc5fe2eefb8fcd81a2b76a876ad08bc82a
+  RxExtensions: 9fe7e8297c643f619502a5ea9c52e5341690b5cb
+  RxSwift: 18ee9d78b45edb3b0b7e79916b47a116e6dbc842
+  ShiftOperations: 702c9aa98d3b20d98dceb71dd8437b562f7ab3ad
+  Threadly: b772ed7c1ff4a3f03eb4600bbc5ef83b3be5cb29
+
+PODFILE CHECKSUM: 26617fad6c2ba75f0a3ed83c4b71c924ca79292b
+
+COCOAPODS: 1.0.1
